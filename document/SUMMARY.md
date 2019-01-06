@@ -101,6 +101,7 @@
   * [hadoop安装](linux/linuxHadoop.md)
   * [mysql5.7安装](linux/linuxMysql.md)
   * [tigervnc-重设密码步骤](linux/tigervnc.md)
+  * [一次服务器搭建](linux/装机.md)
 * [docker相关](docker/dockerZ.md)
   * [docker学习第一天-环境搭建](docker/docker1.md)
   * [docker学习第二天-基础之镜像](docker/docker2.md)
